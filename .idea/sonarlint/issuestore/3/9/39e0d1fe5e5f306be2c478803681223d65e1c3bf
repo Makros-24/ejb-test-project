@@ -1,0 +1,13 @@
+
+j
+java:S1192<"HDefine a constant instead of duplicating this literal "endDate" 3 times.(çÎ€¥şÿÿÿÿ8ƒ˜Ó¬É1
+i
+java:S1192:"LDefine a constant instead of duplicating this literal "description" 3 times.(şŒã8Èú«É1
+g
+java:S1192;"JDefine a constant instead of duplicating this literal "startDate" 3 times.(‘—ÏÈ8Èú«É1
+l
+java:S2095T"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ëúÀ¤8ÅıÑÊÉ1
+i
+java:S2095j"GUse try-with-resources or close this "Statement" in a "finally" clause.(¢ÆÒ«úÿÿÿÿ8ÄıÑÊÉ1
+l
+java:S2095H"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(–¤æ8ÄıÑÊÉ1
